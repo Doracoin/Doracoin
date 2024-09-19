@@ -1,7 +1,7 @@
 # Hi~
 ![](https://visitor-badge.glitch.me/badge?page_id=github-doracoin)
 
-[![roadmap.sh](https://api.roadmap.sh/v1-badge/wide/65d2b5a6cba7f7159fdca515?variant=light&roadmaps=full-stack%2Cpython)](https://roadmap.sh)
+[![roadmap.sh](https://roadmap.sh/card/wide/65d2b5a6cba7f7159fdca515?variant=light&roadmaps=full-stack%2Cbackend%2Cfrontend%2Cpython)](https://roadmap.sh)
 
 ![Doracoin's-github-stats](https://github-readme-stats.vercel.app/api?username=Doracoin&&show_icons=true)
 
